@@ -1,4 +1,4 @@
-# qwen3-0.6b-seqmonkey-pretrain-exp
+# base-llm-06b-seqmonkey-experiment
 
 🧪 从零基于 seq-monkey 数据集预训练 Qwen3-0.6B 模型的实验代码仓库 | 仅用于学习研究，勿应用于任何生产环境。
 
