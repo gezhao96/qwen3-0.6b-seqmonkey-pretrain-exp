@@ -9,6 +9,7 @@
 - 训练数据：`seq-monkey` 数据集
 - 训练优化：基于 DeepSpeed ZeRO-2 实现多GPU显存优化，适配 A800/V100S 等多卡训练环境
 - 项目定位：**纯学习实验性质**，仅用于熟悉大语言模型（LLM）预训练的完整技术链路，模型未经过大规模数据训练、验证与人类对齐，**不具备实际应用能力，禁止用于任何生产环境**
+- 模型权重：[exp-base-model-0.6B-fp16-V1](https://modelscope.cn/models/gebaili/exp-base-model-0.6B-fp16-V1) (ModelScope)
 
 ---
 
